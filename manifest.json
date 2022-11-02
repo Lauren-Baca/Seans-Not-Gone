@@ -1,0 +1,11 @@
+{
+  "name": "Sean's Not Gone!",
+  "version": "1.0.0",
+  "description": "This is an extension to deal with all your 'Sean's gone!! :(' blues.",
+  "manifest_version": 3,
+  "author": "Lauren Marceline-Erin Haruka-Anderson Baca",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Sean's Not Gone!"
+  }
+}

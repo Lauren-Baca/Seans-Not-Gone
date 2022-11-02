@@ -1,5 +1,5 @@
 {
-  "name": "sean's-not-gone",
+  "name": "seans-not-gone",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
