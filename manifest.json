@@ -6,6 +6,7 @@
   "author": "Lauren Marceline-Erin Haruka-Anderson Baca",
   "action": {
     "default_popup": "index.html",
-    "default_title": "Sean's Not Gone!"
+    "default_title": "Sean's Not Gone!",
+    "default_icon": "/public/seans-lil-face.jpeg"
   }
 }

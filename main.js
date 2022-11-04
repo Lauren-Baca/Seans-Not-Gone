@@ -7,11 +7,12 @@ const urlArray = [seanUrl1, seanUrl2, seanUrl3, seanUrl4];
 
 function getASean() {
   const randomSean = urlArray[Math.floor(Math.random() * 4)];
-  console.log('randomSean: ', randomSean);
+
+  // console.log('randomSean: ', randomSean);
 
   document.getElementById('sean-audio-source').setAttribute('src', randomSean);
 }
 
-console.log('this file is run!!');
+// console.log('this file is run!!');
 
 getASean();
